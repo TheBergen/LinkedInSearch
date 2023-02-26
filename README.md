@@ -4,7 +4,7 @@
 Searches through LinkedIn profiles on Google depending on Job Title. And collects information about the user: Name, Title, Company, Link, Country. Etc.
 
 #### Installation
-- Install brew
+- Install brew (For mac users)
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
