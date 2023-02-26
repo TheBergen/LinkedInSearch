@@ -6,7 +6,7 @@ Searches through LinkedIn profiles on Google depending on Job Title. And collect
 #### Installation
 - Install brew (For mac users)
 ```
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Install python3 and tkinter
 brew install python3
